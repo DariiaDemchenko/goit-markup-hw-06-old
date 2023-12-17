@@ -1165,11 +1165,10 @@ body {
     margin-left: 0;
     margin-right: 120px;
   }
-
-  .container-footer-subscribe {
-    margin-left: 0;
-  }
   .container-footer-social {
     margin-right: 80px;
+  }
+  .container-footer-subscribe {
+    margin-left: 0;
   }
 }
